@@ -1,0 +1,10 @@
+C:\Users\Felipe\source\repos\APP-Persona\APP-Persona.Core\bin\Debug\netcoreapp3.1\APP-Persona.Core.deps.json
+C:\Users\Felipe\source\repos\APP-Persona\APP-Persona.Core\bin\Debug\netcoreapp3.1\APP-Persona.Core.dll
+C:\Users\Felipe\source\repos\APP-Persona\APP-Persona.Core\bin\Debug\netcoreapp3.1\APP-Persona.Core.pdb
+C:\Users\Felipe\source\repos\APP-Persona\APP-Persona.Core\obj\Debug\netcoreapp3.1\APP-Persona.Core.csproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\APP-Persona\APP-Persona.Core\obj\Debug\netcoreapp3.1\APP-Persona.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\APP-Persona\APP-Persona.Core\obj\Debug\netcoreapp3.1\APP-Persona.Core.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\APP-Persona\APP-Persona.Core\obj\Debug\netcoreapp3.1\APP-Persona.Core.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\APP-Persona\APP-Persona.Core\obj\Debug\netcoreapp3.1\APP-Persona.Core.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\APP-Persona\APP-Persona.Core\obj\Debug\netcoreapp3.1\APP-Persona.Core.dll
+C:\Users\Felipe\source\repos\APP-Persona\APP-Persona.Core\obj\Debug\netcoreapp3.1\APP-Persona.Core.pdb
